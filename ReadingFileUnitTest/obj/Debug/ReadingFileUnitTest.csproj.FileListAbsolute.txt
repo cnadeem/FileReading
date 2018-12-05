@@ -1,0 +1,8 @@
+D:\NadeemProjects\ReadingFile\ReadingFileUnitTest\bin\Debug\ReadingFileUnitTest.dll
+D:\NadeemProjects\ReadingFile\ReadingFileUnitTest\bin\Debug\ReadingFileUnitTest.pdb
+D:\NadeemProjects\ReadingFile\ReadingFileUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\NadeemProjects\ReadingFile\ReadingFileUnitTest\bin\Debug\ReadingFile.exe
+D:\NadeemProjects\ReadingFile\ReadingFileUnitTest\bin\Debug\ReadingFile.pdb
+D:\NadeemProjects\ReadingFile\ReadingFileUnitTest\obj\Debug\ReadingFileUnitTest.csprojResolveAssemblyReference.cache
+D:\NadeemProjects\ReadingFile\ReadingFileUnitTest\obj\Debug\ReadingFileUnitTest.dll
+D:\NadeemProjects\ReadingFile\ReadingFileUnitTest\obj\Debug\ReadingFileUnitTest.pdb

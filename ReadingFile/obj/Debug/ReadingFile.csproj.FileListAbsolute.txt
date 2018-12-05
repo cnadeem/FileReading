@@ -1,0 +1,9 @@
+D:\NadeemProjects\ReadingFile\ReadingFile\bin\Debug\ReadingFile.exe.config
+D:\NadeemProjects\ReadingFile\ReadingFile\bin\Debug\ReadingFile.exe
+D:\NadeemProjects\ReadingFile\ReadingFile\bin\Debug\ReadingFile.pdb
+D:\NadeemProjects\ReadingFile\ReadingFile\obj\Debug\ReadingFile.csprojResolveAssemblyReference.cache
+D:\NadeemProjects\ReadingFile\ReadingFile\obj\Debug\ReadingFile.exe
+D:\NadeemProjects\ReadingFile\ReadingFile\obj\Debug\ReadingFile.pdb
+C:\Users\ui296207\Source\Repos\FileReading\ReadingFile\bin\Debug\ReadingFile.exe.config
+C:\Users\ui296207\Source\Repos\FileReading\ReadingFile\obj\Debug\ReadingFile.exe
+C:\Users\ui296207\Source\Repos\FileReading\ReadingFile\obj\Debug\ReadingFile.pdb
